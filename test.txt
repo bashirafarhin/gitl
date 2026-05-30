@@ -1,4 +1,3 @@
 first
 bashira
 farhin
-bug
